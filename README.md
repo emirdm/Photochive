@@ -4,7 +4,7 @@ You can create an account in this application, upload photos, add comments and s
 <br>
 <br>
 
-            **App preview**
+App preview
 <br>
 <br>
 <img src="/photochive.gif" width="300" height="550"/>
